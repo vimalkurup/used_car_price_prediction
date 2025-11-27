@@ -1,5 +1,5 @@
 
-Link to Jupyter notebook:https://github.com/vimalkurup/coupon-master/blob/master/m5_coupon_analysis.ipynb
+Link to Jupyter notebook:https://github.com/vimalkurup/used_car_price_prediction/blob/master/m11_user_car_price_prediction.ipynb
 GitHub Repo: https://github.com/vimalkurup/used_car_price_prediction
 
 Business Problem
@@ -30,4 +30,5 @@ Credits
 
 Limitations
 - Limited images uploaded because of space constraint. 
+
 - Lasso evaluation was restricted due to CPU limitations and lack on convergence
