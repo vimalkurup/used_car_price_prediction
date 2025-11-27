@@ -30,5 +30,6 @@ Credits
 
 Limitations
 - Limited images uploaded because of space constraint. 
-
+- Data file compressed and uploaded as CSV
 - Lasso evaluation was restricted due to CPU limitations and lack on convergence
+
